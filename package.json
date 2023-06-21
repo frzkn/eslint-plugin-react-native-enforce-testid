@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-react-native-enforce-testid",
+  "version": "1.0.0",
+  "description": "ESLint plugin to enforce testIDs on React Native Components",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "react-native",
+    "testid"
+  ],
+  "author": "Faraz Khan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frzkn/eslint-plugin-react-native-enforce-testid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frzkn/eslint-plugin-react-native-enforce-testid/issues"
+  },
+  "homepage": "https://github.com/frzkn/eslint-plugin-react-native-enforce-testid#readme",
+  "dependencies": {
+    "@babel/parser": "^7.22.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.43.0"
+  }
+}
