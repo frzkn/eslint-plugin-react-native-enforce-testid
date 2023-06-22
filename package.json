@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-native-enforce-testid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint plugin to enforce testIDs on React Native Components",
   "main": "lib/index.js",
   "scripts": {

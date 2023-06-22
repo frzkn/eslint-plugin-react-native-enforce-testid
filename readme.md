@@ -34,7 +34,7 @@ npx eslint --ext .js --plugin react-native-enforce-testid .
 `testid-missing`
 Ensures that specified React Native components have a testID attribute defined.
 
-Triggers an error if a React Native component is missing the testID attribute. Default components checked: Button, Text, TextInput, TouchableOpacity, TouchableHighlight, Pressable.
+Triggers an error if a React Native component is missing the testID attribute. Default components checked: Button, TextInput, TouchableOpacity, TouchableHighlight, Pressable.
 
 Customize the checked components in the ESLint configuration.
 
